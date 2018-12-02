@@ -11,11 +11,13 @@ app.use(expressSanitizer());
 
 
 
-
+app.get("/", function(req, res){
+   res.render("landing");  
+});
 
 
 
 
 app.listen(process.env.PORT, process.env.IP, function(){
-    console.log("General Kenobi, You are a bold one!");
+    console.log("I Love My Mom");
 })
