@@ -1,0 +1,22 @@
+#content {text-align: center;padding-top: 15%; color: #e8e8e8}
+body {
+    background: url(https://lh3.googleusercontent.com/LKUPGqSImkpDaa5D1PFS1ZqbydoYawNNjMj_FYCSawkKx2qQBupaO0iAGikY4A-dwgypVgOzK7kdJRqUUocp-WeywHS_lDEscDXrCnp4tBrXxHkCiS25Gd9dSpv4OboR0jFmTz1_bKnZd_qZoItiZwoaWM4maUKI23nNTpcUc7LblDHq0g48xXVVJwGvEC9MU3gI8Nr9xZUGEhoksUKT2OwWGtX52s6aclttM-Lmot4ofW-PFM8SBDrIO8MatEopKRSXo-LxM1LSNovf0CUofbSK0JPHsyFywxQHxu5U-H41HtLruieC2adC34oPJjlB9iYKCUMx--GM86-PyzRCDmMXoIAEyH-jy_CldsxU9wQkrAO67_AWFNh1L5OiH9u_AGDjFaxrDcUuvodGCUGenb0h9zzy1GBZ-wlm5i4KQ2Dz9il5dbRC_gCW-jiiRE1-3YnGXvAMkP26EF9nfYXk0bDuqkWC74zhWfb6r3bnrl3WEXqkme0aa4itm84hMZ5qphz3WjcEDb722gKOCGp24fVKTPgMzilz8fDuYa1b7DsinbtmvJBUQJQTINzGufqGB3AcVuoMY2Ux-ZGFotarP3GwZQ5QuFn7qvX52Vq7Va9ZSePr_g4t_pkF4i1DoM4oJBbo5Yt0RlWuZSb8zCKXLPSY=w914-h609-no);background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+body text{color: white}
+
+html {height: 100%}
+
+hr {width: 400px}
+
+.thumbnail { 
+    text-align: center;
+    border:2px;
+    color: white;
+}
+
+.ProductPhoto{
+    height: 200px;
+    width:242;
+}

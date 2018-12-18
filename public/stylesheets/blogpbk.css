@@ -1,0 +1,13 @@
+#content {text-align: center;padding-top: 25%; color: #e8e8e8}
+body {background: url(https://lh3.googleusercontent.com/bGmYOgtzxWblhIqEl1z3u1Ta0WKxuPMJsBANSpT904Rl3MnT8X-_NWa9BcEmcNozEwWU_dmUNr4KrfBQ-TfkGNBZQoYKW6ztWng2DSOhUaOf-O7Q8V8_GpNZHFLFYz_FztxwZHz0TtxGBrO95DG2DQO7URpOE8BIjzrm4S2YaJ10Bb9P_9wCOOAa3WRCAjbOpuLHUCe-v_6VuN-CvvVqvf-T5AgyULTob_RJ9Ie-fhD4C1lv9lZAtMEIbD6aGGjpP3VLKNoKLOpWG0rmjpEmPsIUFiO1DcSauMBU1zaDTnpkqpJGkPMR4aN2vEIWxHRKHUo0kHkG_ghDDWHHID6yXRIiLLbFcMcRexsdJ83G4peNIm0sp8ZjDSKitGH_4B9ikyDUY5pAm1qpwMZjuAHAGiTbLNwR9PlnHGQgS-PkvvMLzyqApjWTvqpPap8t-Tjwb0pNMmBPqhxm8uoFyESJSuILdtw4tE2DSyTpUXBONb-XuxkSbUboupoUUC1kdBxwLbxNb76Fp1jmWAAhcguWgMTU1rHG5rHtdeueVBurEuB8re2bxUrtnHKjAzb7fcdRRPM-8WyElbOomdmAwPX2aP4yz7IuTd0B8JrqGdtqwlvcHJVhmIKL2L2E2t2AfgVaT1xP1_Nu1SOeF-PyfAxpZYuD=w914-h609-no);
+background-size: cover;
+     background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+body text{color: white}
+
+html {height: 100%}
+
+hr {width: 400px}
+
+.carousel-item{height: 1000px; width:500px;}
